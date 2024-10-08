@@ -1,3 +1,4 @@
+package GuessingGameHumanGuesses;
 import java.util.Random;
 import java.util.Scanner;
 

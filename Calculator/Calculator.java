@@ -1,3 +1,4 @@
+package Calculator;
 import java.util.Scanner; // Import the Scanner class for user input
 
 class Calculator {
